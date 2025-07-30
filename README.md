@@ -229,34 +229,9 @@ python3 blackmirror.py httpbin.org
 ### 🔍 Scan Results Example
 ![Scan output from blackmirror](screenshot/scan1.png)
 
-
-## 🤝 Contributing
-
-We welcome contributions! Areas for contribution:
-
-- **New Modules** - Add new scanning capabilities
-- **Bug Fixes** - Improve reliability and accuracy
-- **Documentation** - Enhance guides and examples
-- **Testing** - Add comprehensive test coverage
-- **Performance** - Optimize scanning speed
-
-## 📞 Support
-
-- **Issues**: GitHub Issues
-- **Discussions**: GitHub Discussions
-- **Documentation**: Wiki pages
-- **Community**: Security community forums
-
 ## 📝 License
 
 MIT License - see LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- **nmap** - For powerful port scanning capabilities
-- **Rich** - For beautiful terminal output
-- **Requests** - For HTTP functionality
-- **BeautifulSoup** - For HTML parsing
 
 ---
 
