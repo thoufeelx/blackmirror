@@ -226,6 +226,12 @@ python3 blackmirror.py scanme.nmap.org
 python3 blackmirror.py httpbin.org
 ```
 
+### 🔍 Scan Results Example
+
+![Scan output from blackmirror](screenshot/Screenshot from 2025-07-30 19-30-46.png)
+
+
+
 ## 🤝 Contributing
 
 We welcome contributions! Areas for contribution:
